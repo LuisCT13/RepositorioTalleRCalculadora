@@ -49,7 +49,9 @@ namespace MyApp // Note: actual namespace depends on the project name.
 
                 }
                 Console.WriteLine(" Deseas volver a hacer otra operación?  si es asi, teclea 1 en la consola");
+                Console.WriteLine( "Hecho por Luis Angel Covarrubias Tamayo UWU NYAAAAAAAAAAAAAAAAAAAAAAAA");
                 conf = Convert.ToInt32(Console.ReadLine());
+
                 
 
 
