@@ -15,7 +15,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
             {
                 Console.Clear();
                 Console.WriteLine("Este programa esta hecho el sugundo dia del simposio de ciencias e inteligencia artificial de la ingieneria en sistemas computacionales");
-                Console.WriteLine("\r\n ingrese dos numeros para realizar una suma");
+                Console.WriteLine("\r\n ingrese dos numeros para realizar una operacion");
                 Console.WriteLine("\r\nnumero 1");
                 num1 = Convert.ToInt32(Console.ReadLine());
                 Console.WriteLine("\r\nnumero 2");
